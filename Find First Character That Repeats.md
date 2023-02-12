@@ -20,7 +20,7 @@ Tests are case sensitive.
 
 # My solution
 
-```
+```cpp
 char firstRepeat(std::string chars) {
 	for (int i = 0; i < chars.size(); i++)
 	{
